@@ -25,6 +25,5 @@ def get_members():
             }
             
     return active_members
-    # 9917024 D200, 9917021 D100, IBOT 9930987
 if __name__ == "__main__":
     get_members()
